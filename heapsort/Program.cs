@@ -7,7 +7,7 @@ while (remaining > 0)
     int maxLevelItems = (int)Math.Pow(2, level - 1);
     int levelItems = Math.Min(maxLevelItems, remaining);
     for (int i = currentIndex; i < currentIndex + levelItems; i++)
-        Console.Write($"{a[i]}, ");
+        Console.Write($"{a[i]} ");
     currentIndex += levelItems;
     remaining -= levelItems;
     Console.WriteLine();
