@@ -1,0 +1,15 @@
+/Users/phd/Documents/heap_sort/heapsort/bin/Debug/net6.0/heapsort
+/Users/phd/Documents/heap_sort/heapsort/bin/Debug/net6.0/heapsort.deps.json
+/Users/phd/Documents/heap_sort/heapsort/bin/Debug/net6.0/heapsort.runtimeconfig.json
+/Users/phd/Documents/heap_sort/heapsort/bin/Debug/net6.0/heapsort.dll
+/Users/phd/Documents/heap_sort/heapsort/bin/Debug/net6.0/heapsort.pdb
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.csproj.AssemblyReference.cache
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.AssemblyInfoInputs.cache
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.AssemblyInfo.cs
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.csproj.CoreCompileInputs.cache
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.dll
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/refint/heapsort.dll
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.pdb
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/heapsort.genruntimeconfig.cache
+/Users/phd/Documents/heap_sort/heapsort/obj/Debug/net6.0/ref/heapsort.dll
